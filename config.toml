@@ -22,7 +22,7 @@ enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = true
 disableSitemap = false
-disable404     = true
+disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
