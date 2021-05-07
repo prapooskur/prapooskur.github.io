@@ -11,5 +11,5 @@ I'm currently learning Java, Python, HTML, and CSS.
 
 In my free time, I enjoy playing video games with friends, studying new skills, and writing code.
 
-You can contact me through [GitHub](https://github.com/prapooskur) and [Linkedin](https://www.linkedin.com/in/prasiddh-p-a4738a1b0/).
+You can contact me through [GitHub](https://github.com/prapooskur) and [Linkedin](https://www.linkedin.com/in/prapooskur/).
 
