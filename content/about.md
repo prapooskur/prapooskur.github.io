@@ -5,9 +5,7 @@ draft: false
 ---
 Hi there! I'm **Prasiddh**.
 
-I'm a student currently attending Archbishop Mitty High School.
-
-I'm currently learning Java, Python, HTML, and CSS. 
+I'm a student who's currently learning Java, Python, HTML, and CSS.
 
 In my free time, I enjoy playing video games with friends, studying new skills, and writing code.
 
