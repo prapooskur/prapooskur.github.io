@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.prapooskur.me/about/</loc>
+    <loc>https://prapooskur.github.io/about/</loc>
     <lastmod>2021-05-01T16:17:49-07:00</lastmod>
   </url><url>
-    <loc>https://www.prapooskur.me/categories/</loc>
+    <loc>https://prapooskur.github.io/categories/</loc>
   </url><url>
-    <loc>https://www.prapooskur.me/</loc>
+    <loc>https://prapooskur.github.io/</loc>
   </url><url>
-    <loc>https://www.prapooskur.me/series/</loc>
+    <loc>https://prapooskur.github.io/series/</loc>
   </url><url>
-    <loc>https://www.prapooskur.me/tags/</loc>
+    <loc>https://prapooskur.github.io/tags/</loc>
   </url>
 </urlset>
