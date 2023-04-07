@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-04-07T12:49:51-07:00
-draft: true
+draft: false
 ---
 Hello there! I'm **Prasiddh**, a first-year Computer Science student at the University of California, Santa Cruz.
 
