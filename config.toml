@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Prasiddh Pooskur'
 theme = 'hello-friend-ng'
 
+publishDir = "docs"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -26,11 +28,23 @@ theme = 'hello-friend-ng'
   keywords = "homepage, blog"
   images = [""]
 
+  enableThemeToggle = true
+
   [params.footer]
     trademark = true
     rss = false
     copyright = true
     author = true
+
+  # Social icons
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/prapooskur"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/prapooskur"
+
   
 
 [author]
@@ -44,8 +58,8 @@ theme = 'hello-friend-ng'
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
+    title = "Prasiddh Pooskur"
+    subtitle = "A personal landing page"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -60,7 +74,10 @@ theme = 'hello-friend-ng'
 
   # And you can even create generic menu
 
-  #[[menu.main]]
-  #  identifier = "blog"
-  #  name       = "Blog"
-  #  url        = "/posts"
+  
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+
