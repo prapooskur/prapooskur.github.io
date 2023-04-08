@@ -12,7 +12,7 @@ publishDir = "docs"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Just a person doing a thing."
+  homeSubtitle = "Just a student."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
