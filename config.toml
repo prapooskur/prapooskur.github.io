@@ -31,9 +31,9 @@ publishDir = "docs"
   enableThemeToggle = true
 
   [params.footer]
-    trademark = true
+    trademark = 2024
     rss = false
-    copyright = 2024
+    copyright = true
     author = true
 
   # Social icons
@@ -45,10 +45,12 @@ publishDir = "docs"
     name = "linkedin"
     url  = "https://www.linkedin.com/in/prapooskur"
 
+  [author]
+    name = "Prasiddh Pooskur"
+
   
 
-[author]
-  name = "Prasiddh Pooskur"
+
 
 
 [taxonomies]
