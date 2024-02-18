@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prasiddh Pooskur</title>
-    <link>https://prapooskur.github.io/</link>
+    <link>https://www.prapooskur.com/</link>
     <description>Recent content on Prasiddh Pooskur</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://prapooskur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <atom:link href="https://www.prapooskur.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://prapooskur.github.io/about/</link>
+      <link>https://www.prapooskur.com/about/</link>
       <pubDate>Fri, 07 Apr 2023 12:49:51 -0700</pubDate>
-      
-      <guid>https://prapooskur.github.io/about/</guid>
-      <description>Hello there! I&amp;rsquo;m Prasiddh, a first-year Computer Science student at the University of California, Santa Cruz.
-I&amp;rsquo;ve always been fascinated by the endless possibilties offered by technology, which is why I chose to pursue a degre in computer science. So far, I&amp;rsquo;ve taken courses on programming fundamentals, assembly language, digital logic, and discrete mathematics, and I&amp;rsquo;m excited to learn more about the different areas of computer science in my future classes.</description>
+      <guid>https://www.prapooskur.com/about/</guid>
+      <description>Hello there! I&amp;rsquo;m Prasiddh, a first-year Computer Science student at the University of California, Santa Cruz.&#xA;I&amp;rsquo;ve always been fascinated by the endless possibilties offered by technology, which is why I chose to pursue a degre in computer science. So far, I&amp;rsquo;ve taken courses on programming fundamentals, assembly language, digital logic, and discrete mathematics, and I&amp;rsquo;m excited to learn more about the different areas of computer science in my future classes.</description>
     </item>
-    
   </channel>
 </rss>
