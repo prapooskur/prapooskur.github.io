@@ -33,7 +33,7 @@ publishDir = "docs"
   [params.footer]
     trademark = 2024
     rss = false
-    copyright = true
+    copyright = false
     author = true
 
   # Social icons
