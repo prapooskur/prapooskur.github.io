@@ -5,22 +5,29 @@
     <link>https://www.prapooskur.com/</link>
     <description>Recent content on Prasiddh Pooskur</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <atom:link href="https://www.prapooskur.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://www.prapooskur.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://www.prapooskur.com/projects/</link>
       <pubDate>Mon, 19 Feb 2024 12:45:01 -0800</pubDate>
+      
       <guid>https://www.prapooskur.com/projects/</guid>
-      <description>Slug Courses A UCSC course search application featuring an AI course assistant powered by Gemini and retrieval-augmented generation. Created with Jetpack Compose, Python, Supabase, and Haystack.&#xA;Big Switch Macropad PCB for the Kailh Big Switch powered by an RP2040-Zero. Supports rotary encoders, RGB LEDs, a speaker, and VIK modules.&#xA;Slug Menu A Material 3 Android app for viewing UCSC dining menus. Developed using Jetpack Compose, Ktor, Jsoup, and Room.&#xA;Ansible Playbooks My collection of Ansible playbooks for automating virtual machine setup.</description>
+      <description>Slug Courses A UCSC course search application featuring an AI course assistant powered by Gemini and retrieval-augmented generation. Created with Jetpack Compose, Python, Supabase, and Haystack.
+Big Switch Macropad PCB for the Kailh Big Switch powered by an RP2040-Zero. Supports rotary encoders, RGB LEDs, a speaker, and VIK modules.
+Slug Menu A Material 3 Android app for viewing UCSC dining menus. Developed using Jetpack Compose, Jsoup, and Room.
+Ansible Playbooks My collection of Ansible playbooks for automating virtual machine setup.</description>
     </item>
+    
     <item>
       <title>About</title>
       <link>https://www.prapooskur.com/about/</link>
       <pubDate>Fri, 07 Apr 2023 12:49:51 -0700</pubDate>
+      
       <guid>https://www.prapooskur.com/about/</guid>
-      <description>Hello there! I&amp;rsquo;m Prasiddh, a first-year Computer Science student at the University of California, Santa Cruz.&#xA;I&amp;rsquo;ve always been fascinated by the endless possibilties offered by technology, which is why I chose to pursue a degre in computer science. So far, I&amp;rsquo;ve taken courses on programming fundamentals, assembly language, digital logic, and discrete mathematics, and I&amp;rsquo;m excited to learn more about the different areas of computer science in my future classes.</description>
+      <description>Hello there! I&amp;rsquo;m Prasiddh, a first-year Computer Science student at the University of California, Santa Cruz.
+I&amp;rsquo;ve always been fascinated by the endless possibilties offered by technology, which is why I chose to pursue a degre in computer science. So far, I&amp;rsquo;ve taken courses on programming fundamentals, assembly language, digital logic, and discrete mathematics, and I&amp;rsquo;m excited to learn more about the different areas of computer science in my future classes.</description>
     </item>
+    
   </channel>
 </rss>

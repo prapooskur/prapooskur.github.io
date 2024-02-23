@@ -17,7 +17,7 @@ Macropad PCB for the Kailh Big Switch powered by an RP2040-Zero. Supports rotary
 ## [Slug Menu](https://github.com/prapooskur/SlugMenu)
 [{{< image src="/images/slugmenu.png" alt="Menu App Screenshot" position="left" style="border-radius: 8px; max-height: 400px;" >}}](https://github.com/prapooskur/SlugMenu)
 
-A Material 3 Android app for viewing UCSC dining menus. Developed using Jetpack Compose, Ktor, Jsoup, and Room.
+A Material 3 Android app for viewing UCSC dining menus. Developed using Jetpack Compose, Jsoup, and Room.
 
 ## [Ansible Playbooks](https://github.com/prapooskur/playbooks)
 
