@@ -3,7 +3,7 @@ title: "About"
 date: 2023-04-07T12:49:51-07:00
 draft: false
 ---
-Hello there! I'm **Prasiddh**, a first-year Computer Science student at the University of California, Santa Cruz.
+Hello there! I'm **Prasiddh**, a third-year Computer Science student at the University of California, Santa Cruz.
 
 I've always been fascinated by the endless possibilties offered by technology, which is why I chose to pursue a degre in computer science. So far, I've taken courses on programming fundamentals, assembly language, digital logic, and discrete mathematics, and I'm excited to learn more about the different areas of computer science in my future classes.
 
