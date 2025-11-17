@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prasiddh Pooskur</title>
-    <link>https://www.prapooskur.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Prasiddh Pooskur</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 19 Feb 2024 12:45:01 -0800</lastBuildDate>
-    <atom:link href="https://www.prapooskur.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://www.prapooskur.com/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 19 Feb 2024 12:45:01 -0800</pubDate>
-      <guid>https://www.prapooskur.com/projects/</guid>
-      <description>&lt;h2 id=&#34;slug-courses&#34;&gt;&lt;a href=&#34;https://github.com/prapooskur/SlugCourses&#34;&gt;Slug Courses&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/prapooskur/SlugCourses&#34;&gt;&#xA;    &lt;img src=&#34;https://www.prapooskur.com/images/slugcourses.png&#34;  alt=&#34;Course App Screenshot&#34;  class=&#34;left&#34;  style=&#34;border-radius: 8px; max-height: 400px;&#34;  /&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A UCSC course search application featuring an AI course assistant powered by Gemini and retrieval-augmented generation. Created with Jetpack Compose, Python, Supabase, and Haystack.&lt;/p&gt;&#xA;&lt;h2 id=&#34;big-switch&#34;&gt;&lt;a href=&#34;https://github.com/prapooskur/big-switch-pcb&#34;&gt;Big Switch&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/prapooskur/big-switch-pcb&#34;&gt;&#xA;    &lt;img src=&#34;https://www.prapooskur.com/images/bigswitch.png&#34;  alt=&#34;CAD Screenshot&#34;  class=&#34;left&#34;  style=&#34;border-radius: 8px; max-height: 400px;&#34;  /&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Macropad PCB for the Kailh Big Switch powered by an RP2040-Zero. Supports rotary encoders, RGB LEDs, a speaker, and VIK modules.&lt;/p&gt;&#xA;&lt;h2 id=&#34;slug-menu&#34;&gt;&lt;a href=&#34;https://github.com/prapooskur/SlugMenu&#34;&gt;Slug Menu&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/prapooskur/SlugMenu&#34;&gt;&#xA;    &lt;img src=&#34;https://www.prapooskur.com/images/slugmenu.png&#34;  alt=&#34;Menu App Screenshot&#34;  class=&#34;left&#34;  style=&#34;border-radius: 8px; max-height: 400px;&#34;  /&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2&gt;&lt;a href=&#34;https://github.com/Axon-115A/axon&#34;&gt;Axon&lt;/a&gt;&lt;/h2&gt;&lt;a href=&#34;https://github.com/Axon-115A/axon&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/axon.png&#34; alt=&#34;Class prerequisite graph&#34; style=&#34;border-radius: 8px; max-height: 400px; max-width: 300px; margin: 0 0 10px 20px; float: right;&#34; &gt;&lt;/a&gt;&#xA;&#xA;&lt;div class=&#34;project-description&#34;&gt;&lt;p&gt;A graph-based note-taking application developed for UCSC&amp;rsquo;s CSE 115A. Features an intuitive interface for creating and connecting notes in a visual graph structure.&lt;/p&gt;&#xA;&lt;p&gt;Built with TypeScript and React.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;h2&gt;&lt;a href=&#34;https://github.com/prapooskur/SlugCourses&#34;&gt;Slug Courses&lt;/a&gt;&lt;/h2&gt;&lt;a href=&#34;https://github.com/prapooskur/SlugCourses&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/slugcourses.png&#34; alt=&#34;Course App Screenshot&#34; style=&#34;border-radius: 8px; max-height: 400px; max-width: 300px; margin: 0 0 10px 20px; float: right;&#34; &gt;&lt;/a&gt;&#xA;&#xA;&lt;div class=&#34;project-description&#34;&gt;&lt;p&gt;A cross-platform UCSC course search application featuring an AI course assistant powered by Gemini and retrieval-augmented generation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://www.prapooskur.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 07 Apr 2023 12:49:51 -0700</pubDate>
-      <guid>https://www.prapooskur.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Hello there! I&amp;rsquo;m &lt;strong&gt;Prasiddh&lt;/strong&gt;, a fourth-year Computer Science student at the University of California, Santa Cruz.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve always been fascinated by the endless possibilities offered by technology, which is why I chose to pursue a degree in computer science. So far, I&amp;rsquo;ve taken courses on programming fundamentals, assembly language, digital logic, and discrete mathematics, and I&amp;rsquo;m excited to learn more about the different areas of computer science in my future classes.&lt;/p&gt;</description>
     </item>
   </channel>
