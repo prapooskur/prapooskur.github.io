@@ -30,8 +30,11 @@ publishDir = "docs"
 
   enableThemeToggle = true
 
+  [params.author]
+    name = "Prasiddh Pooskur"
+
   [params.footer]
-    trademark = 2024
+    trademark = 2025
     rss = false
     copyright = false
     author = true
@@ -45,14 +48,12 @@ publishDir = "docs"
     name = "linkedin"
     url  = "https://www.linkedin.com/in/prapooskur"
 
-  [author]
-    name = "Prasiddh Pooskur"
-
 
 [taxonomies]
     category = "blog"
     tag      = "tags"
     series   = "series"
+    author   = "Prasiddh Pooskur"
 
 [languages]
   [languages.en]
