@@ -1,0 +1,31 @@
+{{- $title := .Get "title" | default "" -}}
+{{- $link := .Get "link" | default "" -}}
+{{- $image := .Get "image" | default "" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $style := .Get "style" | default "border-radius: 8px; max-height: 250px; float: right; margin: 0 0 10px 20px;" -}}
+
+{{- if $title }}
+<h2>
+  {{- if $link -}}
+  <a href="{{ $link }}">{{ $title }}</a>
+  {{- else -}}
+  {{ $title }}
+  {{- end -}}
+</h2>
+{{- end -}}
+
+{{- if $image }}
+  {{- if $link -}}
+  <a href="{{ $link }}">
+  {{- end -}}
+    <img src="{{ $image }}" alt="{{ $alt }}" style="border-radius: 8px; max-height: 400px; max-width: 300px; margin: 0 0 10px 20px; float: right;" >
+  {{- if $link -}}
+  </a>
+  {{- end -}}
+{{- end }}
+
+<div class="project-description">
+  {{- .Inner | markdownify -}}
+</div>
+
+<div style="clear: both;"></div>

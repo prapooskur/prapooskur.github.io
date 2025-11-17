@@ -13,4 +13,4 @@ When I'm not coding, I like to play video games and read sci-fi novels. I love e
 
 After graduation, I hope to pursue a career in software engineering, systems administration, or cybersecurity.
 
-You can contact me on [GitHub](https://github.com/prapooskur) and [Linkedin](https://www.linkedin.com/in/prapooskur/).
+You can contact me on [GitHub](https://github.com/prapooskur) and [LinkedIn](https://www.linkedin.com/in/prapooskur/).

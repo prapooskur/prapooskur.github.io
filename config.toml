@@ -19,7 +19,7 @@ publishDir = "docs"
 
   # Enable sharing buttons, if you like
   enableSharingButtons = true
-  
+
   # Show a global language switcher in the navigation bar
   enableGlobalLanguageMenu = false
 
@@ -73,13 +73,13 @@ publishDir = "docs"
 
   # And you can even create generic menu
 
-  
+
 [menu]
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
-    
+
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
