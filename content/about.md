@@ -5,7 +5,7 @@ draft: false
 ---
 Hello there! I'm **Prasiddh**, a fourth-year Computer Science student at the University of California, Santa Cruz.
 
-I've always been fascinated by the endless possibilties offered by technology, which is why I chose to pursue a degre in computer science. So far, I've taken courses on programming fundamentals, assembly language, digital logic, and discrete mathematics, and I'm excited to learn more about the different areas of computer science in my future classes.
+I've always been fascinated by the endless possibilties offered by technology, which is why I chose to pursue a degree in computer science. So far, I've taken courses on programming fundamentals, assembly language, digital logic, and discrete mathematics, and I'm excited to learn more about the different areas of computer science in my future classes.
 
 In my free time, I enjoy learning more about new developments in technology, exploring different programming languages and libraries, and participating in hackathons to apply the skills that I have learned.
 
