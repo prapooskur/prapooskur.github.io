@@ -30,6 +30,10 @@ publishDir = "docs"
 
   enableThemeToggle = true
 
+  # analytics
+  plausibleDataDomain = "prapooskur.com"
+  plausibleScriptSource = '<script defer data-domain="prapooskur.com" src="https://pls.prapooskur.com/js/script.hash.outbound-links.js"></script><script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>'
+
   [params.author]
     name = "Prasiddh Pooskur"
 
