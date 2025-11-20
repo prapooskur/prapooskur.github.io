@@ -1,0 +1,34 @@
+/* Project shortcode responsive styles */
+
+.project-container {
+    margin-bottom: 2em;
+    clear: both;
+}
+
+.project-image {
+    border-radius: 8px;
+    max-height: 400px;
+    max-width: 300px;
+    margin: 0 0 10px 20px;
+    float: right;
+}
+
+.project-clear {
+
+    clear: both;
+}
+
+/* Mobile responsive styles */
+@media screen and (max-width: 768px) {
+    .project-image {
+        float: none;
+        display: block;
+        max-width: 100%;
+        margin: 0 auto 1em auto;
+        height: auto;
+    }
+
+    .project-description {
+        clear: both;
+    }
+}
