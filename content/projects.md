@@ -39,7 +39,7 @@ Macropad PCB for the Kailh Big Switch, powered by an RP2040-Zero. Supports two r
 {{< project
     title="Slug Menu"
     link="https://github.com/prapooskur/SlugMenu"
-    image="/images/slugmenu.png"
+    image="/images/slugmenu.webp"
     alt="Menu list"
 >}}
 A Material 3 Android app for viewing UCSC dining hall menus.
