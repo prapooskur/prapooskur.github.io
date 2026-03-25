@@ -38,7 +38,7 @@ publishDir = "docs"
     name = "Prasiddh Pooskur"
 
   [params.footer]
-    trademark = 2025
+    trademark = 2026
     rss = false
     copyright = false
     author = true
